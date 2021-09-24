@@ -1,6 +1,6 @@
 # Source Codes - Rendy Ganz API
 <p align="center">
-<a href="#"><img title="api RendyBotwa" src="https://img.shields.io/badge/zeeoneofc Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="api RendyBotwa" src="https://img.shields.io/badge/Rendyganz Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RendyBOTwa"><img title="Author" src="https://img.shields.io/badge/Author-Rendy-red.svg?style=for-the-badge&logo=github"></a>
