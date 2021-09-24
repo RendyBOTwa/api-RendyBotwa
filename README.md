@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/RendyBOTwa?tab=followers/followers"><img title="Followers" src="https://img.shields.io/github/followers/RendyBOTwa?color=red&style=flat-square"></a>
-<a href="https://github.com/RendyBOTwa/api-RendyBotwa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RendyBOTwa/api-RendyBotwa?color=blue&style=flat-square"></a>
+<a href="https://github.com/RendyBOTwa?tab=stars/api-RendyBotwa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RendyBOTwa/api-RendyBotwa?color=blue&style=flat-square"></a>
 <a href="https://github.com/RendyBOTwa/api-RendyBotwa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RendyBOTwa/api-RendyBotwa?color=red&style=flat-square"></a>
 <a href="https://github.com/RendyBOTwa/api-RendyBotwa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RendyBOTwa/api-RendyBotwa?label=Watchers&color=blue&style=flat-square"></a>
 </p>
