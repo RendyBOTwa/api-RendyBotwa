@@ -1,37 +1,46 @@
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+# Source Codes - Rendy Ganz API
 <p align="center">
-  <img src="https://k.top4top.io/p_2039uufl81.jpg" />
+<a href="#"><img title="api RendyBotwa" src="https://img.shields.io/badge/zeeoneofc Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RendyBOTwa"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RendyBOTwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/RendyBOTwa?color=red&style=flat-square"></a>
+<a href="https://github.com/RendyBOTwa/api-RendyBotwa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RendyBOTwa/api-RendyBotwa?color=blue&style=flat-square"></a>
+<a href="https://github.com/RendyBOTwa/api-RendyBotwa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RendyBOTwa/api-RendyBotwa?color=red&style=flat-square"></a>
+<a href="https://github.com/RendyBOTwa/api-RendyBotwa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RendyBOTwa/api-RendyBotwa?label=Watchers&color=blue&style=flat-square"></a>
+</p>
+<p align='center'>
+   <a href="https://wa.me/message/6285367709870"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/rendyowner"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </p>
 
+-------
+ 
+## Api Features
+Check it yourself [Here](https://api-rendyganzz.herokuapp.com/api)
+
+
+## Cara Ganti ApiKey Gimana?
+Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
+```js
+if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+```
+Atau
+
+```js
+if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+```
+<h1 align="center"> Subscribe YouTube Saya
 <p align="center">
-
-- 👼 My name is rendy 
-- 🗣️ I am 12 years old 
-- 🔭 I am not programmer
-
+  <a href="https://youtu.be/JITNUNC4GK8"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
+  
 </p>
 
-------
-### Connect with me 
-<p align="center">
-  <a href="https://instagram.com/rendyowner"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/6285367709870"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-zeeone ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
-  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/RendyBotwa"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UC5mZMihMPntnmf8qvIeFNtA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=Rendi Ardiansyah&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Rendi Ardiansyah&color=blue&style=flat-square&label=Profile+View"></a>
-</p>
 
-
-------
-
-### Spotify Playing 🎧
-
-<p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-------
-
-
+# Special Thanks
+- Rendyganz
+- Zeeone ofc (Makasih template nya)
+- manik (Makasih Kodeposnya)
+- devnazir (Credits : FilmApik, LK21)
