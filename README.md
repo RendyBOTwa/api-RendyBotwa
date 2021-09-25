@@ -19,7 +19,7 @@
 -------
  
 ## Api Features
-Check it yourself [Here](https://api-rendyganzz.herokuapp.com/api)
+Check it yourself [Here]()
 
 
 ## Cara Ganti ApiKey Gimana?
